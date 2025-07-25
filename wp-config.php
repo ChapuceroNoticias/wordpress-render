@@ -1,8 +1,8 @@
 <?php
-define( 'DB_NAME', 'sql3791790' );
-define( 'DB_USER', 'sql3791790' );
-define( 'DB_PASSWORD', 'gZ1aGL88VP' );
-define( 'DB_HOST', 'sql.freesqldatabase.com:3306' );
+define( 'DB_NAME', 'u538889987_pJZeB' );
+define( 'DB_USER', 'u538889987_x2jny' );
+define( 'DB_PASSWORD', 'ProyectosIa2025@' );
+define( 'DB_HOST', 'mysql.hostinger.com:3306' );
 define( 'DB_CHARSET', 'utf8' );
 define( 'DB_COLLATE', '' );
 
