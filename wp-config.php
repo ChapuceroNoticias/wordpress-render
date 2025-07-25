@@ -2,7 +2,7 @@
 define( 'DB_NAME', 'u538889987_miwordpressdb' );
 define( 'DB_USER', 'u538889987_miusuario' );
 define( 'DB_PASSWORD', 'ProyectosIA2025@' );
-define( 'DB_HOST', 'mysql.hostinger.com' );
+define( 'DB_HOST', 'gansoinformativo.com' );
 define( 'DB_CHARSET', 'utf8' );
 define( 'DB_COLLATE', '' );
 
