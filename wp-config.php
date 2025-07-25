@@ -1,6 +1,6 @@
 <?php
-define( 'DB_NAME', 'u538889987_pJZeB' );
-define( 'DB_USER', 'u538889987_x2jny' );
+define( 'DB_NAME', 'u538889987_miwordpressdb' );
+define( 'DB_USER', 'u538889987_miusuario' );
 define( 'DB_PASSWORD', 'ProyectosIa2025@' );
 define( 'DB_HOST', 'ftp://gansoinformativo.com' );
 define( 'DB_CHARSET', 'utf8' );
